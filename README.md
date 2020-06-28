@@ -13,7 +13,7 @@ People in the past have created similar apps and charged people hundreds of doll
 ## Will I get banned for using this?
 It is known that passed Snapchat tweaks would result in a ban, for example Casper, Snaptools, etc. However because this is directly from Snapchat's developer kit there is absolutely no chance of being banned. **Keep in mind there is a risk of someone reporting you for uploading something "nasty" -- be careful of who's on your friend's list.**
 
-## Installation
+## Installation - https://www.youtube.com/watch?v=7yo7Z1NSAzY&feature=youtu.be
 1. Start up Mac or VMware
 2. Install xcode via app store
 3. Start terminal and paste the following
@@ -48,7 +48,11 @@ It is known that passed Snapchat tweaks would result in a ban, for example Caspe
 13. Go on your iPhone settings. General -> Device Management -> Your email -> Trust App.
 14. That's it, Enjoy!
 
-
+## If you don't want your stories to show "from Camera"
+1. Upload image/video using the app.
+2. Edit the photo however you want
+3. Save the photo to memories
+4. Immediately upload the photo to your story.
 
   
   
