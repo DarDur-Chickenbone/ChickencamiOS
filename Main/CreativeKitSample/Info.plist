@@ -27,11 +27,11 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>Videos and photos captured by iPhone Camera and Photo Roll are strictly used in this app and Snapchat.</string>
+	<string>Videos and photos captured will only be shared with Snapchat.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Videos and photos captured by iPhone Camera and Photo Roll are strictly used in this app and Snapchat.</string>
+	<string>Videos and photos captured will only be shared with Snapchat cunt.</string>
 	<key>SCSDKClientId</key>
-	<string>PASTEAUTHCODEHERE</string>
+	<string>PASTEYOURCODEINTOHERE</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

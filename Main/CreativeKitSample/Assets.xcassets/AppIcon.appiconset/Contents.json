@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "40.png",
+      "filename" : "29-2.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
@@ -49,61 +49,61 @@
       "size" : "60x60"
     },
     {
-      "filename" : "icon-snap-kit-20.png",
+      "filename" : "29-1.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "20x20"
     },
     {
-      "filename" : "icon-snap-kit-41.png",
+      "filename" : "40.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
-      "filename" : "icon-snap-kit-29.png",
+      "filename" : "29.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "29x29"
     },
     {
-      "filename" : "icon-snap-kit-58.png",
+      "filename" : "58-1.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
-      "filename" : "icon-snap-kit-42.png",
+      "filename" : "40-1.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "40x40"
     },
     {
-      "filename" : "icon-snap-kit-81.png",
+      "filename" : "80-1.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
-      "filename" : "icon-snap-kit-76.png",
+      "filename" : "80-2.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
     },
     {
-      "filename" : "icon-snap-kit-152.png",
+      "filename" : "180-2.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
     },
     {
-      "filename" : "icon-snap-kit-167.png",
+      "filename" : "80-3.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "83.5x83.5"
     },
     {
-      "filename" : "icon-snap-kit-1024.png",
+      "filename" : "1024.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"

@@ -55,6 +55,7 @@ extension MediaPickerViewController {
     @IBAction fileprivate func photoLibraryButtonDidTap(_ sender: UIButton) {
         if UIImagePickerController.isSourceTypeAvailable(.photoLibrary) {
             let pickerController = UIImagePickerController()
+            pickerController.mediaTypes = ["public.image","public.movie"]
             pickerController.delegate = self
             pickerController.sourceType = .photoLibrary
             present(pickerController, animated: true)

@@ -27,8 +27,11 @@ class StickersViewController: UIViewController {
     fileprivate let stickers = [
         Media(name: "icon-new.png", source: .bundle, type: .still),
         Media(name: "icon-badge.png", source: .bundle, type: .still),
+        Media(name: "cunt.png", source: .bundle, type: .still),
         Media(name: "https://raw.githubusercontent.com/Snapchat/creative-kit-sample/master/ios/images/rainbow-spinner.gif", source: .remote, type: .animated),
-        Media(name: "https://raw.githubusercontent.com/Snapchat/creative-kit-sample/master/ios/images/oscillating-green-ball.gif", source: .remote, type: .animated),
+        Media(name: "https://raw.githubusercontent.com/Snapchat/creative-kit-sample/master/ios/images/oscillating-green-ball.gif", source: .remote, type:
+            .animated),
+        Media(name: "burger.png", source: .bundle, type: .still),
     ]
     fileprivate lazy var snapAPI = {
         return SCSDKSnapAPI()
